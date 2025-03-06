@@ -176,7 +176,7 @@ void* cVoteTable(void* arg) {
 }
 
 void invalidUse(int islot) {
-	Plugin_ChatPrintf(islot, "Vote: ^1Incorrect usage, ^7usage: %s map <mapname>", Plugin_Cmd_Argv(0));
+	Plugin_ChatPrintf(islot, "Vote: ^1Incorrect usage, ^7usage: %s map <mapName> <gameMode>", Plugin_Cmd_Argv(0));
 
 }
 
