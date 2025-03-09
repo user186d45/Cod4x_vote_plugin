@@ -1,3 +1,0 @@
-#define Cod4x_Vote_Plugin_VERSION_MAJOR @Cod4x_Vote_Plugin_VERSION_MAJOR@
-#define Cod4x_Vote_Plugin_VERSION_MINOR @Cod4x_Vote_Plugin_VERSION_MINOR@
-#define Cod4x_Vote_Plugin_VERSION_PATCH @Cod4x_Vote_Plugin_VERSION_PATCH@

@@ -1,3 +1,0 @@
-/home/judi/Documents/eclips_workspace/Cod4x_Vote_Plugin/build/default/CMakeFiles/Cod4x_Vote_Plugin.dir
-/home/judi/Documents/eclips_workspace/Cod4x_Vote_Plugin/build/default/CMakeFiles/edit_cache.dir
-/home/judi/Documents/eclips_workspace/Cod4x_Vote_Plugin/build/default/CMakeFiles/rebuild_cache.dir

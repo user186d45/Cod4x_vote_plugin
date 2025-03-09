@@ -1,7 +1,0 @@
-[
-{
-  "directory": "/home/judi/Documents/eclips_workspace/Cod4x_Vote_Plugin/build/default",
-  "command": "/usr/bin/cc -DCod4x_Vote_Plugin_EXPORTS -I/usr/include/i386-linux-gnu -I/home/judi/Documents/eclips_workspace/Cod4x_Vote_Plugin/build/default  -m32 -Wall -O1 -g -fvisibility=hidden -mtune=core2 -fPIC -o CMakeFiles/Cod4x_Vote_Plugin.dir/src/Cod4x_Vote_Plugin.c.o -c /home/judi/Documents/eclips_workspace/Cod4x_Vote_Plugin/src/Cod4x_Vote_Plugin.c",
-  "file": "/home/judi/Documents/eclips_workspace/Cod4x_Vote_Plugin/src/Cod4x_Vote_Plugin.c"
-}
-]

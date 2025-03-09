@@ -1,1 +1,0 @@
-/usr/bin/cc -fPIC  -m32 -Wall -O1 -g -fvisibility=hidden -mtune=core2  -m32 -g -shared -shared -Wl,-soname,libCod4x_Vote_Plugin.so -o libCod4x_Vote_Plugin.so CMakeFiles/Cod4x_Vote_Plugin.dir/src/Cod4x_Vote_Plugin.c.o  -Wl,-rpath,/lib/i386-linux-gnu /lib/i386-linux-gnu/libsqlite3.so /lib/i386-linux-gnu/libpthread.so.0 
